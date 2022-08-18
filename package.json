@@ -54,7 +54,7 @@
     ]
   },
   "devDependencies": {
-    "@actions/core": "^1.2.7",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "@crowdin/cli": "3",
     "@types/jest": "^26.0.23",
